@@ -1,1 +1,1 @@
-TinDog Starting Files
+An example of landing page of an app.
